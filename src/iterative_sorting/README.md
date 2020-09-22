@@ -23,7 +23,7 @@ However, it should be noted that if you perform **Bubble Sort** on an array that
 
 An example of this algorithm being applied to an array with 10 numerical elements can be seen in the video below.
 
-[(VIDEO) Select-sort with Gypsy folk dance](https://www.youtube.com/watch?v=Ns4TPTC8whw)
+[(VIDEO) Select-sort with Gypsy folk dance](https://YouTube.com/watch?v=Ns4TPTC8whw)
 
 [![(VIDEO) Select-sort with Gypsy folk dance](https://i.ytimg.com/vi/Ns4TPTC8whw/hqdefault.jpg)](https://www.youtube.com/watch?v=Ns4TPTC8whw)
 
